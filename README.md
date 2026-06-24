@@ -1,18 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# <div align="center">
+# <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+# </div>
 
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+## This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/5724398d-831c-460b-83e7-f1d935153bf7
+## View your app in AI Studio: https://ai.studio/apps/5724398d-831c-460b-83e7-f1d935153bf7
 
 ## Run Locally
 
 **Prerequisites:**  Node.js
 
+In order to run this software, you'll have to provide your own 
+.env.local file and copy it into the "Octonion-Isomorphism-Explorer" directory,
 
+then start the Node.js command prompt, ... and then type in the following commands :::: 
+
+   > npm install 
+   > npm approve-scripts --all
+   > npm run dev 
+   > h            (press h+enter to show help)
+   > o            (press o+enter to open in browser)
+   >
+   > q            (when you are finished running it, then type q+enter )  
+
+
+Or, in other words :::: 
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
