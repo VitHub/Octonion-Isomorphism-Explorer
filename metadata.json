@@ -1,0 +1,6 @@
+{
+  "name": "Octonion Isomorphism Explorer",
+  "description": "An interactive visual explorer for all 480 isomorphic variations of octonions, featuring Fano planes, multiplication tables, algebraic property verifications, and an interactive calculation sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
