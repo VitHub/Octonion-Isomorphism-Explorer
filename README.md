@@ -17,11 +17,19 @@ In order to run this software, you'll have to provide your own
 
 then start the Node.js command prompt, ... and then type in the following commands :::: 
 
-   > npm install 
+   > npm install
+
+   >
+  
    > npm approve-scripts --all
-   > npm run dev 
+  
+   > npm run dev
+   >  
    > h            (press h+enter to show help)
+   > 
    > o            (press o+enter to open in browser)
+
+   >
    >
    > q            (when you are finished running it, then type q+enter )  
 
