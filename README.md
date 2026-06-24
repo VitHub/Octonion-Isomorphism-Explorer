@@ -13,7 +13,8 @@
 <!--  ## **Prerequisites:**  Node.js -->
 
 In order to run this software, you'll have to provide your own 
-.env.local file and copy it into the "Octonion-Isomorphism-Explorer" directory,
+.env.local file and copy it into the 
+"Octonion-Isomorphism-Explorer" directory,
 
 then start the Node.js command prompt, ... and then type in the following commands :::: 
 
